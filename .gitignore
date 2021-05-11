@@ -1,0 +1,7 @@
+Old/*
+*.odt
+icons/*
+_*/
+Shortcuts/*
+Junk/*
+.gitignore
